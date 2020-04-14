@@ -1,0 +1,10 @@
+*.cpython-37.pyc
+*.pyc
+*.log
+acceptor/Logs/*
+initiator/Sessions/*
+.body
+.header
+.seqnums
+.session
+*.4.3-TESTACC-TESTINI.session
